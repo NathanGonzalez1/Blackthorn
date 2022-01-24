@@ -1,0 +1,7 @@
+section.appbar-header {
+    background-color:blue;
+}
+
+mat-chip.mat-chip.mat-focus-indicator.keyword-item.mat-primary.mat-standard-chip.mat-chip-selected {
+    background-color:red;
+}
