@@ -1,7 +1,7 @@
 a.session-link {
     background-color: white; 
 }
-.event-price ng-star-inserted {
+.event-price[_ngcontent-ask-c176] {
     display:none
 }
 .event-status[_ngcontent-uwd-c176] {
