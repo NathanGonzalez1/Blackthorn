@@ -5,3 +5,7 @@ a.session-link {
 .event-price ng-star-inserted {
     display:none
 }
+
+.event-status hidden-if-empty ng-star-inserted {
+    display:none
+}
