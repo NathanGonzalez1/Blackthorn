@@ -4,6 +4,6 @@ a.session-link {
 .event-price ng-star-inserted {
     display:none
 }
-.event-status hidden-if-empty ng-star-inserted {
+.event-status[_ngcontent-uwd-c176] {
     display:none
 }
