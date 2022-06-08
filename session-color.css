@@ -1,7 +1,7 @@
 a.session-link {
     background-color: white; 
 }
-.event-price[_ngcontent-ask-c176] {
+event-price.ng-star-inserted {
     display:none
 }
 .event-status.hidden-if-empty.ng-star-inserted {
