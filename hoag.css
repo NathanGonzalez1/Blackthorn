@@ -1,10 +1,13 @@
+.appbar-header {
+  position: relative;
+}
+
 .donation-card .bt-card {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 9999;
-    margin-top: -300px;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  z-index: 9999;
 }
 
 @font-face {
