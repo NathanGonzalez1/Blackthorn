@@ -7,7 +7,7 @@
     margin-top: 300px;
 }
 
-.donation-card .bt-card {
+.donation-card {
     position: absolute;
     top: 0;
     left: 0;
@@ -16,6 +16,6 @@
     margin-top: -300px;
 }
 
-.divider-line .ng-star-inserted {
+.divider-line {
   display: none;
 }
