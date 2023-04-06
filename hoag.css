@@ -1,31 +1,3 @@
 .donation-card .bt-card {
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    z-index: 9999;
-}
-
-.bt-card .cart-item {
-    position: relative;
-    z-index: 1;
-    top: 0;
-    left: 0;
-    right: 0;
-    margin-top: 300px;
-}
-
-@font-face {
-    font-family: "CircularBold";
-    src: url("https://mattroush.github.io/HoagSFCustom/fonts/CircularXX-Bold.otf")
-}
-
-@font-face {
-    font-family: "CircularMedium";
-    src: url("https://mattroush.github.io/HoagSFCustom/fonts/CircularXX-Medium.otf")
-}
-
-@font-face {
-    font-family: "CircularBook";
-    src: url("https://mattroush.github.io/HoagSFCustom/fonts/CircularXX-Book.otf")
+    display: none;
 }
