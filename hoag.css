@@ -1,13 +1,18 @@
-.appbar-header {
-  position: relative;
+.donation-card .bt-card {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 9999;
 }
 
-.bt-donation-card {
-  position: absolute;
-  top: 100%;
-  left: 0;
-  right: 0;
-  z-index: 9999;
+.bt-card .cart-item {
+    position: relative;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin-top: 300px;
 }
 
 @font-face {
