@@ -1,19 +1,10 @@
-.bt-card .cart-item {
-    position: relative;
-    z-index: 1;
-    top: 0;
-    left: 0;
-    right: 0;
-    margin-top: 300px;
-}
-
 .donation-card .bt-card {
     position: absolute;
     top: 0;
     left: 0;
     right: 0;
     z-index: 9999;
-    margin-top: -300px !important;
+    margin-top: -300px;
 }
 
 @font-face {
