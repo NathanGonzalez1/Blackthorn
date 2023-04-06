@@ -1,4 +1,4 @@
-.bt-card .cart-item{
+.bt-card .cart-item {
     position: relative;
     z-index: 1;
     top: 0;
@@ -8,12 +8,13 @@
 }
 
 .donation-card .bt-card {
-    position: absolute
-    top: 0 
+    position: absolute;
+    top: 0;
     left: 0;
     right: 0;
     z-index: 9999;
     margin-top: -300px !important;
+}
 
 @font-face {
     font-family: "CircularBold";
