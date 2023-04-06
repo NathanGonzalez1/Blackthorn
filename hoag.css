@@ -1,7 +1,7 @@
 .main.content-container {
   position: relative;
   z-index: 1;
-}
+};
 
 .bt-card .cart-item {
     position: relative;
@@ -10,7 +10,8 @@
     left: 0;
     right: 0;
     margin-top: 250px;
-}
+};
+
 .donation-card.bt-card {
     position: absolute;
     top: 0;
@@ -18,7 +19,8 @@
     right: 0;
     z-index: 9999;
     margin-top: 70px;
-}
+};
+
 .bt-card .ng-tns-c196-0 {
     position: relative;
     z-index: 1;
@@ -26,4 +28,4 @@
     left: 0;
     right: 0;
     margin-top: 250px;
-}
+};
