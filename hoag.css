@@ -1,15 +1,10 @@
-.main.content-container {
-  position: relative;
-  z-index: 1;
-};
-
-.bt-card .cart-item {
+.tickets-content {
     position: relative;
     z-index: 1;
     top: 0;
     left: 0;
     right: 0;
-    margin-top: 250px;
+    margin-top: 300px;
 };
 
 .donation-card.bt-card {
@@ -18,14 +13,9 @@
     left: 0;
     right: 0;
     z-index: 9999;
-    margin-top: 70px;
+    margin-top: -300px;
 };
 
-.bt-card .ng-tns-c196-0 {
-    position: relative;
-    z-index: 1;
-    top: 0;
-    left: 0;
-    right: 0;
-    margin-top: 250px;
+.divider-line .ng-star-inserted {
+  display: none;
 };
