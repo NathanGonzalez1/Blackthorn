@@ -14,18 +14,3 @@
     right: 0;
     margin-top: 300px;
 }
-
-@font-face {
-    font-family: "CircularBold";
-    src: url("https://mattroush.github.io/HoagSFCustom/fonts/CircularXX-Bold.otf")
-}
-
-@font-face {
-    font-family: "CircularMedium";
-    src: url("https://mattroush.github.io/HoagSFCustom/fonts/CircularXX-Medium.otf")
-}
-
-@font-face {
-    font-family: "CircularBook";
-    src: url("https://mattroush.github.io/HoagSFCustom/fonts/CircularXX-Book.otf")
-}
