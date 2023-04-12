@@ -1,6 +1,16 @@
+.appbar-container {
+  display: flex;
+  flex-direction: column;
+}
+
 .donation-card.bt-card {
   position: absolute;
   top: 0;
+  order: 2; /* sets the order to appear second */
+}
+
+.bt-card.cart-item {
+  order: 3; /* sets the order to appear third */
 }
 
 @font-face {
