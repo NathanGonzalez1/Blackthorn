@@ -2,3 +2,7 @@
 display: none;
 };
 
+.mat-focus-indicator.add-self-button.mat-stroked-button.mat-button-base.ng-star-inserted:nth-child(2) {
+  display: none;
+};
+
