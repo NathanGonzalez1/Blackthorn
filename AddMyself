@@ -1,0 +1,7 @@
+.mat-form-field-flex.ng-tns-c71-2:not(:first-child) {
+display: none;
+};
+
+.mat-focus-indicator.add-self-button.mat-stroked-button.mat-button-base.ng-star-inserted:not(:first-child) {
+display: none;
+};
