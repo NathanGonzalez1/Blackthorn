@@ -2,6 +2,6 @@
 display: none;
 };
 
-.mat-focus-indicator.add-self-button.mat-stroked-button.mat-button-base.ng-star-inserted {
+.mat-form-field-type-mat-select:not(.mat-form-field-disabled) .mat-form-field-flex {
 display: none;
 };
