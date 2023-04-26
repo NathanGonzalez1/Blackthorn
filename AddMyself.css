@@ -2,6 +2,7 @@
 display: none;
 };
 
-.mat-form-field-type-mat-select:not(.mat-form-field-disabled) .mat-form-field-flex {
+.mat-form-field-type-mat-select:not(.mat-form-field-disabled).mat-form-field-flex {
 display: none;
 };
+
