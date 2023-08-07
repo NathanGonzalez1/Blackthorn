@@ -1,0 +1,12 @@
+.bt-card.description {
+    box-sizing: content-box;
+    width: 145%;
+};
+
+.floating-label.lt-desktop.ng-star-inserted {
+display: none;
+};
+
+.card.date-and-time.ng-star-inserted {
+display: none;
+};
