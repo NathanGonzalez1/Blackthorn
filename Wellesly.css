@@ -1,3 +1,8 @@
 bt-order-success-failure.ng-star-inserted button.mat-focus-indicator.mat-menu-trigger.action-button.mat-stroked-button.mat-button-base.ng-star-inserted {
    display: none;
 }
+
+
+bt-simple-event-confirmation.ng-star-inserted .ng-star-inserted button.mat-focus-indicator.mat-menu-trigger.action-button.mat-stroked-button.mat-button-base.ng-star-inserted {
+    display: none;
+} 
