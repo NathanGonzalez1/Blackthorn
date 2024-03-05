@@ -1,0 +1,10 @@
+success-image {
+display: block !important;
+-moz-box-sizing: border-box;
+box-sizing: border-box;
+background: url(https://coloradostateuniversityuniversitya--uat.sandbox.my.salesforce.com/sfc/p/VG0000006DQn/a/VG00000033ar/7xmWJwEoly7sLBEEo1cMtCep11ksJO7nEe.MnneX_oI)
+no-repeat;
+width: 200px;
+height: 200px;
+padding-left: 200px;
+}
