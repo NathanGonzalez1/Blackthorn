@@ -1,0 +1,7 @@
+.add-all-btn {
+visibility:hidden
+}
+
+bt-order-success-failure.ng-star-inserted button.mat-focus-indicator.mat-menu-trigger.action-button.mat-stroked-button.mat-button-base.ng-star-inserted { 
+display: none; 
+}
