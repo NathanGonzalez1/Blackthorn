@@ -1,0 +1,4 @@
+.payment-option mat-checkbox span {
+    word-wrap: break-word;
+    white-space: normal;
+}
