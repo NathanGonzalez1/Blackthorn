@@ -1,5 +1,6 @@
 .section.speakers {
-  background: -webkit-linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255, 1))
+  background: -webkit-linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255, 1));
+  margin: 0;
 }
 
 .section.venue {
