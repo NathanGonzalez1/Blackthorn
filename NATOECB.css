@@ -10,6 +10,6 @@
   background-color: #F5F5F5 !important;
 }
 
-.section {
-    max-width: unset !important;
+.section[_ngcontent-rco-c202] {
+  max-width: unset !important;
 }
