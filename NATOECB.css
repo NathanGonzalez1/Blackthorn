@@ -1,13 +1,15 @@
 .section.speakers {
   background: -webkit-linear-gradient(bottom, rgba(255,255,255,0), rgba(255,255,255, 1));
-  max-width: none !important;
 }
 
 .section.venue {
   background: -webkit-linear-gradient(top, #176798, rgba(255, 255, 255, 0));
-    max-width: none !important;
 }
 
 .faq-wrapper {
   background-color: #F5F5F5 !important;
+}
+
+.section {
+    max-width: none !important;
 }
