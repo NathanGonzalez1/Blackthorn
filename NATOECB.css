@@ -5,6 +5,7 @@
 
 .section.venue {
   background: -webkit-linear-gradient(top, #176798, rgba(255, 255, 255, 0));
+  max-width: none !important;
 }
 
 .faq-wrapper {
