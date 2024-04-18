@@ -1,3 +1,6 @@
 .bt-card {
 	display: none !important;
 }
+.bt-card.description {
+	width: 145%;
+}
