@@ -2,6 +2,6 @@
 display: none;
 }
 
-.nav-item.ng-star-inserted {
+.nav-item.ng-star-inserted:nth-child(2) {
   display: none;
 }
