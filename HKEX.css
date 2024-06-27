@@ -3,5 +3,5 @@ display: none;
 }
 
 .nav-item.ng-star-inserted:nth-child(2) {
-  display: none;
+  display: none !important;
 }
