@@ -1,3 +1,7 @@
 .section.schedules {
 display: none;
 }
+
+.nav-item.ng-star-inserted {
+  display: none;
+}
