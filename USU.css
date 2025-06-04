@@ -1,3 +1,7 @@
 .linear-background {
 display: none !important;
 }
+
+.get-ticket-button-wrapper.ng-tns-c229-7.ng-star-inserted {
+  display: flex !important;
+}
