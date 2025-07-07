@@ -1,4 +1,4 @@
-.step-content-wrapper::before {
+.component-wrapper.ng-star-inserted::before {
   content: "CC Micro-Blocks: All Friday afternoon micro-blocks will take place from 2–3 p.m. Please only select one micro-block so your fellow alums can register for their favorites too!";
   display: block;
   position: absolute;
@@ -12,8 +12,4 @@
   font-size: 1rem;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
   z-index: 999;
-}
-
-.session-wrapper {
-  position: relative; /* Add this if not already set */
 }
