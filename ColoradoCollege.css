@@ -1,0 +1,19 @@
+.step-content-wrapper::before {
+  content: "CC Micro-Blocks: All Friday afternoon micro-blocks will take place from 2–3 p.m. Please only select one micro-block so your fellow alums can register for their favorites too!";
+  display: block;
+  position: absolute;
+  top: -40px; /* Moves it above the container */
+  left: 20px; /* Adjust horizontally if needed */
+  background: white;
+  color: black;
+  padding: 0.75rem 1.25rem;
+  border-radius: 8px;
+  font-weight: bold;
+  font-size: 1rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  z-index: 999;
+}
+
+.session-wrapper {
+  position: relative; /* Add this if not already set */
+}
