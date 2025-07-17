@@ -1,0 +1,112 @@
+:root {
+    --backgroundColor: #18453b !important;
+}
+
+.section.schedules {
+    display: none;
+}
+
+
+.separator, .h1-text-hidden  {
+    color: white !important;
+} 
+
+.search-icon {   
+    color: #19453B !important;
+}
+
+.bt-date-badge__day {
+    color: #19453B !important;
+}
+
+.title {
+    color: white;
+}
+
+.ng-star-inserted {
+    color: #a0a0a0;
+}
+
+.step-label {
+    color: white;
+}
+
+.navbar-nav a {
+    display: none !important;
+}
+
+h1.event-name {
+    color: #000000 !important;
+}
+
+.section.tickets bt-master-event-ui-tickets {
+  display: none !important;
+}
+
+bt-event-attendeelink-check-in button span {
+    color: #000 !important;
+}
+
+strong.ng-tns-c1455767882-7.ng-star-inserted {
+    color: #000000 !important;
+}
+
+strong.ng-tns-c1455767882-8.ng-star-inserted {
+    color: #000000 !important;
+}
+
+.form-title.ng-tns-c1092218221-9.ng-star-inserted
+Specificity: (0,3,0)
+ {
+    color: #000000 !important;
+}
+
+span.mat-option-text {
+    color: #000000 !important;
+}
+
+strong.ng-tns-c1455767882-14.ng-star-inserted {
+    color: #000000 !important;
+}
+
+strong.ng-tns-c1455767882-17.ng-star-inserted {
+    color: #000000 !important;
+}
+
+span.mat-select-min-line.ng-tns-c3082329526-19.ng-star-inserted {
+    color: #000000 !important;
+}
+
+.event-date.ng-star-inserted {
+    color: #000000 !important;
+}
+
+
+a.mat-focus-indicator.mat-menu-item.ng-tns-c3043411536-19.ng-star-inserted {
+    color: #000000 !important;
+}
+
+span.capitalize {
+    color:  #FFFFFF !important;
+}
+
+button.link-button {
+  color: white !important;
+}
+
+.order-status-wrapper .actions button.mat-menu-trigger.border-button {
+    color: white !important;
+    border-color: white !important;
+}
+
+.form-title.ng-tns-c1092218221-9.ng-star-inserted {
+    color: black; !important
+}
+
+mat-pseudo-checkbox.mat-pseudo-checkbox.mat-option-pseudo-checkbox.mat-pseudo-checkbox-full.ng-star-inserted {
+    color: black; !important
+}
+
+.product-item__price.ng-star-inserted {
+    display: none !important;
+}
