@@ -1,0 +1,20 @@
+navbar-nav ng-star-inserted {
+  display: none !important;
+}
+
+more-left offset ng-star-inserted {
+  display: none !important;
+}
+
+more-right ng-star-inserted {
+  display: none !important;
+}
+
+section schedules {
+  display: none !important;
+}
+
+section tickets {
+  display: none !important;
+}
+  
