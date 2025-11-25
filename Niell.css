@@ -1,3 +1,7 @@
-strong.ng-star-inserted:nth-of-type(3) {
+strong.ng-star-inserted:nth-child(N) {
+    display: none !important;
+}
+
+div[class^="ng-tns-"].ng-star-inserted:nth-child(N) {
     display: none !important;
 }
