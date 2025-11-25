@@ -1,0 +1,4 @@
+/* Example: hide the price on the 4th ticket row */
+.bt-ticket-row:nth-of-type(3) strong.ng-star-inserted {
+  display: none !important;
+}
