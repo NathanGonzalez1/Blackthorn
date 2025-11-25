@@ -1,1 +1,3 @@
-Test
+strong.ng-star-inserted:nth-of-type(3) {
+    display: none !important;
+}
