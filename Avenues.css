@@ -3,9 +3,7 @@
 }
 
 .event-date.ng-star-inserted {
-      text-align: left !important;
-      justify-content: left !important;
-      align-items: left !important;
+      padding-right: 150px !important;
 }
 
 .event-details.simple {
@@ -16,14 +14,3 @@
       background-color: #cac3BC !important;
 }
 
-.event-details {
-      text-align: left !important;
-      justify-content: left !important;
-      align-items: left !important;
-}
-
-.event-where-when.ng-star-inserted {
-      text-align: left !important;
-      justify-content: left !important;
-      align-items: left !important;
-}
