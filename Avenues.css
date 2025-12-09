@@ -14,3 +14,10 @@
       background-color: #cac3BC !important;
 }
 
+.line {
+      display: none !important;
+}
+
+.dot {
+      display: none !important;
+}
