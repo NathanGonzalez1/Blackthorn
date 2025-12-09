@@ -1,3 +1,4 @@
-bt-order-success-failure .actions .mat-menu-trigger.border-button {
-    display: none !important;
+.bt-master-event-ui-confirmation .actions bt-add-to-calendar,
+.bt-master-event-ui-confirmation .actions button.mat-menu-trigger.action-button {
+  display: none !important;
 }
