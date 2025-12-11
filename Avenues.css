@@ -2,10 +2,6 @@
       text-align: left !important;
 }
 
-.event-date.ng-star-inserted {
-      padding-right: 150px !important;
-}
-
 .event-details.simple {
       background-color: #cac3BC !important;
 }
@@ -20,4 +16,51 @@
 
 .dot {
       display: none !important;
+}
+
+/* 1) Undo centering on the wrapper that currently centers name/date */
+.event-details .event-where-when,
+.event-details[_ngcontent-ng-c931720497] .event-where-when[_ngcontent-ng-c931720497] {
+  display: flex !important;
+  flex-flow: column wrap !important;    /* keep column behavior if intended */
+  justify-content: flex-start !important; /* left-align vertically */
+  align-items: flex-start !important;      /* left-align horizontally */
+  text-align: left !important;             /* force text to left */
+  gap: 1rem 2rem !important;
+  padding-top: 1.125rem !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+/* 2) Make .event-date align left (it was centering its children) */
+.event-date,
+.event-date[_ngcontent-ng-c931720497] {
+  display: flex !important;
+  justify-content: flex-start !important;
+  align-items: center !important;
+  text-align: left !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+}
+
+/* 3) Ensure children can shrink/wrap instead of overflowing */
+.event-name.ng-star-inserted,
+.event-date.ng-star-inserted {
+  flex: 0 1 auto !important;
+  min-width: 0 !important;   /* critical in flex layouts */
+  white-space: normal !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  text-align: left !important;
+}
+
+/* 4) Mobile: stack and keep left */
+@media (max-width: 640px) {
+  .event-details .event-where-when,
+  .event-name.ng-star-inserted,
+  .event-date.ng-star-inserted {
+    align-items: flex-start !important;
+    justify-content: flex-start !important;
+    width: 100% !important;
+  }
 }
