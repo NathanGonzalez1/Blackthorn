@@ -68,3 +68,7 @@
  .form.ng-untouched.ng-pristine.ng-invalid {
       background-color: white !important;
     }
+
+.actions.ng-star-inserted {
+  visibility: collapse;
+}
